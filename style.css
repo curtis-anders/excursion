@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#camp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#phone-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+h1 h2 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#footer {
+    text-align: right;
+}
+
